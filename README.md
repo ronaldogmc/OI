@@ -5,7 +5,7 @@ Programa que envia e recebe uma mensagem para outro processo via socket.
 
 Exemplos de comandos que possui no programa:
 
-        printf("date:     (remoto) retornar a data.\n");
+	printf("date:     (remoto) retornar a data.\n");
   
 	printf("time:     (remoto) retornar a hora.\n");
 	
